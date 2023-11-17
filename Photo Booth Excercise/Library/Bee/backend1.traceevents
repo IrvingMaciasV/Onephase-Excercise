@@ -1,51 +1,353 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1700211813669740, "dur":1640, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1700211813671393, "dur":134, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1700211813671570, "dur":272, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1700211813671978, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/level0.resS" }}
-,{ "pid":12345, "tid":0, "ts":1700211813672186, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":0, "ts":1700211813672513, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/StreamingAssets/Photo-2023-11-15-23-36-26.png" }}
-,{ "pid":12345, "tid":0, "ts":1700211813672965, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1700211813673255, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1700211813673533, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1700211813673991, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1700211813674247, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1700211813674517, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1700211813671858, "dur":4642, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1700211813676501, "dur":1481, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1700211813677983, "dur":173, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1700211813678268, "dur":1456, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1700211813672243, "dur":4280, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1700211813676525, "dur":767, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1700211813677293, "dur":724, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1700211813672523, "dur":4027, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1700211813676552, "dur":821, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1700211813677373, "dur":616, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1700211813672206, "dur":4308, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1700211813676519, "dur":869, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1700211813677389, "dur":598, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1700211813672556, "dur":4000, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1700211813676559, "dur":791, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1700211813677350, "dur":650, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1700211813672103, "dur":4404, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1700211813676509, "dur":1468, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1700211813672348, "dur":4181, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1700211813676532, "dur":860, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1700211813677392, "dur":592, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1700211813672468, "dur":4068, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1700211813676539, "dur":798, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1700211813677338, "dur":670, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1700211813672494, "dur":4049, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1700211813676545, "dur":809, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1700211813677355, "dur":639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1700211813672614, "dur":3950, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1700211813676566, "dur":289, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1700211813676856, "dur":1130, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1700211813672743, "dur":3838, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1700211813676582, "dur":1447, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1700211813672679, "dur":3892, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1700211813676571, "dur":1468, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1700211813672798, "dur":3790, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1700211813676589, "dur":1436, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1700211813681983, "dur":317, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid":12345, "tid":0, "ts":1700216572307153, "dur":1643, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700216572308810, "dur":137, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700216572308995, "dur":277, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700216572309389, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1700216572309527, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1700216572309957, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/StreamingAssets/Photo2023-11-17-02-59-40.png" }}
+,{ "pid":12345, "tid":0, "ts":1700216572310124, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700216572310560, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700216572311092, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700216572309293, "dur":4501, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700216572313795, "dur":120146, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700216572433941, "dur":216, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700216572434332, "dur":2066, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1700216572309495, "dur":4306, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700216572313803, "dur":5202, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700216572319077, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1700216572319192, "dur":91, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572319419, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\irvin\\OneDrive\\Documentos\\Unity\\Onephase-Excercise\\Photo Booth Excercise\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572319490, "dur":109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\irvin\\OneDrive\\Documentos\\Unity\\Onephase-Excercise\\Photo Booth Excercise\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572319600, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\irvin\\OneDrive\\Documentos\\Unity\\Onephase-Excercise\\Photo Booth Excercise\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572319777, "dur":226, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\irvin\\OneDrive\\Documentos\\Unity\\Onephase-Excercise\\Photo Booth Excercise\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572320004, "dur":368, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\irvin\\OneDrive\\Documentos\\Unity\\Onephase-Excercise\\Photo Booth Excercise\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572320373, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\irvin\\OneDrive\\Documentos\\Unity\\Onephase-Excercise\\Photo Booth Excercise\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572320460, "dur":350, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\irvin\\OneDrive\\Documentos\\Unity\\Onephase-Excercise\\Photo Booth Excercise\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572319076, "dur":1907, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1700216572320984, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700216572321173, "dur":2006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1700216572323362, "dur":1772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1700216572325181, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572325179, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572325624, "dur":28193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572353881, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700216572353981, "dur":2631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572356667, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700216572356777, "dur":2610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572359434, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700216572359507, "dur":2001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572361594, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700216572361705, "dur":2612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572364373, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700216572364487, "dur":2426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700216572366964, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/StreamingAssets/Photo2023-11-17-02-59-40.png" }}
+,{ "pid":12345, "tid":1, "ts":1700216572367017, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700216572367387, "dur":1318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/StreamingAssets/Photo2023-11-17-02-59-40.png" }}
+,{ "pid":12345, "tid":1, "ts":1700216572368821, "dur":1498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1700216572370360, "dur":63565, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572309855, "dur":4008, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572313866, "dur":849, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572314715, "dur":4311, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572319044, "dur":113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1700216572319027, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1700216572319158, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572327506, "dur":12906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1700216572340487, "dur":249, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572340758, "dur":2189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700216572343065, "dur":7378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700216572350492, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572350579, "dur":3025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700216572353659, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572353746, "dur":2302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700216572356116, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572356231, "dur":2489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700216572358779, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572358900, "dur":2139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700216572361091, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572361216, "dur":2500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700216572363785, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572363876, "dur":2605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700216572366538, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572366663, "dur":2720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700216572369430, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700216572369526, "dur":1749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1700216572371319, "dur":62604, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572309673, "dur":4172, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572313847, "dur":712, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572314559, "dur":4490, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572319050, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1700216572319117, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572321049, "dur":2181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1700216572323279, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1700216572323275, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1700216572323634, "dur":1446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1700216572325169, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572325427, "dur":1026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1700216572339815, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572330674, "dur":9212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700216572339941, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572340013, "dur":1958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700216572342060, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572342228, "dur":1991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700216572344300, "dur":5215, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572349557, "dur":2084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700216572351692, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572351786, "dur":3241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700216572355082, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572355188, "dur":2473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700216572357710, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572357796, "dur":2347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700216572360199, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572360288, "dur":2751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700216572363108, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572363211, "dur":2654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700216572365916, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572366019, "dur":2372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700216572368439, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700216572368764, "dur":1765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1700216572370574, "dur":63347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572309602, "dur":4205, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572313812, "dur":747, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572314560, "dur":4445, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572319018, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572319093, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572320483, "dur":2643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1700216572323129, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1700216572323300, "dur":1818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1700216572325581, "dur":1309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700216572326936, "dur":3713, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572330806, "dur":9484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700216572340348, "dur":325, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572340722, "dur":1492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700216572342262, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572342333, "dur":7708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700216572350140, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572350218, "dur":3659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700216572353933, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572354039, "dur":2298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700216572356389, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572356475, "dur":2840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700216572359377, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572359488, "dur":2299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700216572361872, "dur":352, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572362249, "dur":2828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700216572365189, "dur":2933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700216572368233, "dur":99, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572368336, "dur":1864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1700216572370244, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572372091, "dur":138, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700216572370402, "dur":1837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1700216572372298, "dur":61650, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572309777, "dur":4074, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572313853, "dur":848, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572314701, "dur":4350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572319066, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1700216572319052, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1700216572319121, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572321212, "dur":1971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1700216572323273, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572323585, "dur":1335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1700216572324965, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1700216572324964, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1700216572325149, "dur":1278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1700216572326473, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1700216572330711, "dur":15175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1700216572345940, "dur":3573, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572349548, "dur":1984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700216572351599, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572351757, "dur":3421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700216572355232, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572355328, "dur":2329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700216572357718, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572357803, "dur":2768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700216572360646, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572360735, "dur":2909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700216572363733, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572363873, "dur":2578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700216572366518, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572366660, "dur":3153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1700216572369882, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1700216572369958, "dur":3437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1700216572373446, "dur":60488, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572309811, "dur":4046, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572313860, "dur":852, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572314712, "dur":4351, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572319075, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1700216572319063, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1700216572319173, "dur":390, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572321156, "dur":1989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1700216572323189, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1700216572323314, "dur":1742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1700216572325201, "dur":1330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1700216572330744, "dur":11155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700216572341954, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572342075, "dur":1304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700216572343438, "dur":166, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572343626, "dur":7292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700216572350977, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572351052, "dur":3112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700216572354214, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572354353, "dur":2291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700216572356783, "dur":2637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700216572359469, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572359648, "dur":2361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700216572362057, "dur":166, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572362245, "dur":2439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700216572364731, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1700216572364830, "dur":2592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700216572367479, "dur":137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700216572367475, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1700216572367679, "dur":66160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700216572310053, "dur":3822, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572313879, "dur":814, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572314694, "dur":4361, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572319058, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1700216572319118, "dur":275, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572334583, "dur":599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1700216572335352, "dur":4076, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572339561, "dur":1746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700216572341357, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572341520, "dur":1511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700216572343080, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572343201, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572343256, "dur":7607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700216572350916, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572351009, "dur":3248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700216572354310, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572354403, "dur":2437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700216572356917, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572357047, "dur":2584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700216572359685, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572359782, "dur":1916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700216572361752, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572361906, "dur":2791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700216572364749, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572364838, "dur":2709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1700216572367687, "dur":1655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1700216572369405, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1700216572369520, "dur":1784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1700216572371351, "dur":62573, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572309945, "dur":3924, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572313871, "dur":828, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572314700, "dur":4350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572319051, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1700216572319135, "dur":391, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572341056, "dur":1728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1700216572342916, "dur":7028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700216572350004, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572350098, "dur":2209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700216572352353, "dur":1064, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572353442, "dur":2196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700216572355706, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572355906, "dur":3536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700216572359498, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572359644, "dur":3092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700216572362796, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572362906, "dur":1950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700216572364907, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572365061, "dur":3066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1700216572368197, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1700216572368275, "dur":2230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1700216572370548, "dur":63387, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572310174, "dur":3709, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572313886, "dur":340, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572314226, "dur":4828, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572319055, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1700216572319118, "dur":237, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572328049, "dur":665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1700216572328750, "dur":1902, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572330758, "dur":9376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700216572340198, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572340258, "dur":215, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572340479, "dur":2526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700216572343059, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572343248, "dur":7697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700216572351005, "dur":170, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572351202, "dur":3408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700216572354670, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572354759, "dur":2308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700216572357119, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572357212, "dur":2763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700216572360029, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572360121, "dur":3188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700216572363363, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572363455, "dur":2283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700216572365786, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1700216572365989, "dur":2847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1700216572369134, "dur":1361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1700216572370537, "dur":63385, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572310346, "dur":3551, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572313897, "dur":5155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572319053, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1700216572319113, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572321195, "dur":2081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1700216572323655, "dur":1491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1700216572325305, "dur":1255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise.exe" }}
+,{ "pid":12345, "tid":10, "ts":1700216572326605, "dur":4083, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572330790, "dur":11748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700216572342587, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572342662, "dur":7383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700216572350093, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572350223, "dur":2011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700216572352288, "dur":1130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572353449, "dur":1959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700216572355468, "dur":153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572355643, "dur":2267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700216572357968, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572358085, "dur":2717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700216572360853, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572361040, "dur":3182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700216572364285, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572364401, "dur":3864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1700216572368396, "dur":1437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1700216572369942, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1700216572370010, "dur":2033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1700216572372305, "dur":61622, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700216572310253, "dur":3637, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700216572313890, "dur":5137, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700216572319045, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1700216572319027, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1700216572319135, "dur":346, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700216572340503, "dur":1184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1700216572341810, "dur":1429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700216572343317, "dur":353, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700216572343715, "dur":7463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700216572351299, "dur":3151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700216572354505, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700216572354672, "dur":2426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700216572357151, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700216572357243, "dur":2499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700216572359869, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700216572360016, "dur":3234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700216572363410, "dur":146, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700216572363579, "dur":2573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700216572366208, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700216572366358, "dur":2800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1700216572369238, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1700216572369355, "dur":1765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1700216572371184, "dur":62746, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572310390, "dur":3514, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572313905, "dur":5148, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572319068, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1700216572319054, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1700216572319132, "dur":306, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572339498, "dur":6692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1700216572346224, "dur":3290, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572349550, "dur":2599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700216572352202, "dur":1241, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572353485, "dur":1935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700216572355469, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572355647, "dur":2438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700216572358138, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572358237, "dur":2266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700216572360562, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572360687, "dur":3240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700216572363978, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572364059, "dur":2758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700216572366879, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572367040, "dur":2390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1700216572369488, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1700216572369633, "dur":1907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/irvin/OneDrive/Documentos/Unity/Onephase-Excercise/Build/Photo Booth Excercise_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1700216572371588, "dur":62351, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700216572439678, "dur":1734, "ph":"X", "name": "ProfilerWriteOutput" }
 ,
